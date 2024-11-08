@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.carousel-image {
+  height: 70vh;      /* Adjust height to 70% of the viewport height */
+  object-fit: cover; /* Ensures the images fill the space without distortion */
+}
