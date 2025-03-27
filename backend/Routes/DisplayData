@@ -1,0 +1,15 @@
+const express = require('express')
+const router = express.Router()
+
+router.post('/productData', (req,res)=>{
+    try {
+        res.send([global.product_items, global.product_category])
+        console.log(global.product_items)
+    } catch (error) {
+        console.error(error.message)
+        res.send("server error")
+        
+    }
+})
+
+module.exports = router;

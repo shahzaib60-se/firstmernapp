@@ -1,0 +1,38 @@
+[
+    {
+      "title": "USA Flag T-shirt",
+      "image": "/images/usa.webp",
+      "description": "Comfortable cotton USA Flag t-shirt.",
+      "price": 25.99,
+      "category": "Apparel"
+    },
+    {
+      "title": "Laptop Sleeve",
+      "image": "/images/laptop-sleeve.webp",
+      "description": "Durable sleeve for 13-inch laptops.",
+      "price": 19.99,
+      "category": "Accessories"
+    },
+    {
+      "title": "Camera Lens",
+      "image": "/images/camera-lens.webp",
+      "description": "High quality camera lens for professional photography.",
+      "price": 299.99,
+      "category": "Electronics"
+    },
+    {
+      "title": "Headphones",
+      "image": "/images/headphones.webp",
+      "description": "Noise-cancelling over-ear headphones.",
+      "price": 89.99,
+      "category": "Electronics"
+    },
+    {
+      "title": "Water Bottle",
+      "image": "/images/water-bottle.webp",
+      "description": "Eco-friendly reusable water bottle.",
+      "price": 12.99,
+      "category": "Accessories"
+    }
+  ]
+  
